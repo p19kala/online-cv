@@ -81,31 +81,31 @@ programming-languages:
         level: 40%
 
 programs:
-        title: Programs &amp; Proficiency
+    title: Programs &amp; Proficiency
 
-        - name: Photoshop
-          level: 50%
+      - name: Photoshop
+        level: 50%
 
-        - name: Hitfilm Express 
-          level: 80%
+      - name: Hitfilm Express 
+        level: 80%
 
-        - name: Visual Paradigm
-          level: 60%
+      - name: Visual Paradigm
+        level: 60%
 
-        - name: pia (CNIL)
-          level: 95%
+      - name: pia (CNIL)
+        level: 95%
 
-        - name: OBS Studio
-          level: 50%
+      - name: OBS Studio
+        level: 50%
 
 skills:
-        title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiency
 
-        - name: Find solutions to problems quickly
-          level: 70%
+      - name: Find solutions to problems quickly
+        level: 70%
 
-        - name: Working in a team
-          level: 50%
+      - name: Working in a team
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
