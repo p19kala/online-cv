@@ -9,22 +9,17 @@ sidebar:
     # Profile information
     name: Alexandros Kalathas
     tagline: Undergraduate student
-   # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p19kala@ionio.gr
     phone: 1 800 800 69
     citizenship: Greek
     website: p19kala.github.io/online-cv/ #do not add http://
-   # linkedin: 
-   # xing: alandoe
     github: p19kala
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
     #twitter: '@webjeda'
     stack-overflow: 18323557/alexandros-kalathas # Number/Username, e.g. 123456/alandoe
-    codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -43,18 +38,15 @@ sidebar:
 
     interests:
       - item: Gaming
-        link:
 
-      - item: Running
-        link:
+      - item: Learning
 
       - item: Programming
-        link:
 
 career-profile:
     title: A little bit more about me
     summary: |
-        I spend my time learning stuff in the university, completing assignments and play games in my free time. As I am a fast learner, I like to learn new languages (both programming and physical ones). I don't have work experience yet in the science of informatics. I'm more of a lone wolf when it comes to projects, but I've been learning to work as a member in a team and co-operate with others for the past <script type="text/javascript">document.write( new Date().getFullYear() - 2019 );</script>  years.
+      I spend my time learning stuff in the university, completing assignments and play games in my free time. As I am a fast learner, I like to learn new languages (both programming and physical ones). I don't have work experience yet in the science of informatics. I'm more of a lone wolf when it comes to projects, but I've been learning to work as a member in a team and co-operate with others for the past <script type="text/javascript">document.write( new Date().getFullYear() - 2019 );</script>  years.
 
 education:
     - degree: Undergraduate
@@ -64,8 +56,9 @@ education:
       details: |
         I study various things about information handling, processing and protection along with network structure and language programming (C, C++, Java, Python, SQL) and hope to have my postgraduate degree on Network Security.
 experiences:
-       I haven't had any experiences in a professional environment yet.
-Programming Languages:
+      details: |
+        I haven't had any experiences in a professional environment yet.
+programming-languages:
     title: Languages &amp; Proficiency
 
     toolset:
@@ -87,7 +80,7 @@ Programming Languages:
       - name: C
         level: 40%
 
-Programs:
+programs:
         title: Programs &amp; Proficiency
 
         - name: Photoshop
@@ -101,18 +94,18 @@ Programs:
 
         - name: pia (CNIL)
           level: 95%
-        
+
         - name: OBS Studio
           level: 50%
 
-Skills:
+skills:
         title: Skills &amp; Proficiency
 
         - name: Find solutions to problems quickly
           level: 70%
-       
+
         - name: Working in a team
           level: 50%
-       
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
