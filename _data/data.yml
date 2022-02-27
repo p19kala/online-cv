@@ -84,6 +84,16 @@ skills:
       - name: C
         level: 40%
 
+      - name: Find solutions to problems quickly
+        level: 70%
+
+      - name: Working in a team
+        level: 50%
+
+programs:
+    title: Programs &amp; Proficiency
+
+    toolset:
       - name: Photoshop
         level: 30%
 
@@ -97,12 +107,6 @@ skills:
         level: 95%
 
       - name: OBS Studio
-        level: 50%
-
-      - name: Find solutions to problems quickly
-        level: 70%
-
-      - name: Working in a team
         level: 50%
 
 footer: >
