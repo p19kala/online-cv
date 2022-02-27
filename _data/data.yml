@@ -83,6 +83,7 @@ programming-languages:
 programs:
     title: Programs &amp; Proficiency
 
+    toolset:
       - name: Photoshop
         level: 50%
 
@@ -101,6 +102,7 @@ programs:
 skills:
     title: Skills &amp; Proficiency
 
+    toolset:
       - name: Find solutions to problems quickly
         level: 70%
 
