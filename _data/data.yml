@@ -2,6 +2,9 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
+#Site Settings
+title: Alexandros' resume
+
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -56,10 +59,11 @@ education:
       details: |
         I study various things about information handling, processing and protection along with network structure and language programming (C, C++, Java, Python, SQL) and hope to have my postgraduate degree on Network Security.
 experiences:
-      details: |
+    details: |
         I haven't had any experiences in a professional environment yet.
+
 programming-languages:
-    title: Languages &amp; Proficiency
+    title: Programming Languages
 
     toolset:
       - name: Python
