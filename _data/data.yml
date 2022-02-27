@@ -14,8 +14,8 @@ sidebar:
     email: p19kala@ionio.gr
     phone: 1 800 800 69
     citizenship: Greek
-    website: [Alexandros resume](p19kala.github.io/online-cv/) #do not add http://
-    github: [Alexandros Kalathas](p19kala)
+    website: online-cv #do not add http://
+    github: Alexandros Kalathas
     telegram: # add your nickname without '@' sign
     #twitter: '@webjeda'
     stack-overflow: 18323557/alexandros-kalathas # Number/Username, e.g. 123456/alandoe
