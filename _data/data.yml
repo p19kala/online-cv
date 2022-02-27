@@ -71,61 +71,61 @@ Programming Languages:
     toolset:
       - name: Python
         level: 75%
-        75%
+        "75%"
 
       - name: Java
         level: 70%
-        70%
+        "70%"
 
       - name: HTML
         level: 70%
-        70%
+        "70%"
 
       - name: HTML5 & CSS
         level: 20%
-        20%
+        "20%"
 
       - name: SQL
         level: 30%
-        30%
+        "30%"
 
       - name: C
         level: 40%
-        40%
+        "40%"
 
 Programs:
         title: Programs &amp; Proficiency
 
         - name: Photoshop
         level: 50%
-        50%
+        "50%"
 
         - name: Hitfilm Express 
         level: 80%
-        80%
+        "80%"
 
         - name: Visual Paradigm
         level: 60%
-        60%
+        "60%"
 
         - name: pia (CNIL)
         level: 95%
-        95%
+        "95%"
 
         - name: OBS Studio
         level: 50%
-        50%
+        "50%"
 
 Skills:
         title: Skills &amp; Proficiency
 
         - name: Find solutions to problems quickly
         level: 70%
-        70%
+        "70%"
 
         - name: Working in a team
         level: 50%
-        50%
+        "50%"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
