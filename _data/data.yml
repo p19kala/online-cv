@@ -58,12 +58,13 @@ education:
       time: 2019 - (most likely 2023)
       details: |
         I study various things about information handling, processing and protection along with network structure and language programming (C, C++, Java, Python, SQL) and hope to have my postgraduate degree on Network Security.
+
 experiences:
     details: |
         I haven't had any experiences in a professional environment yet.
 
-programming-languages:
-    title: Programming Languages
+skills:
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
@@ -84,14 +85,10 @@ programming-languages:
       - name: C
         level: 40%
 
-programs:
-    title: Programs &amp; Proficiency
-
-    toolset:
       - name: Photoshop
-        level: 50%
+        level: 30%
 
-      - name: Hitfilm Express 
+      - name: Hitfilm Express
         level: 80%
 
       - name: Visual Paradigm
@@ -103,10 +100,6 @@ programs:
       - name: OBS Studio
         level: 50%
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
       - name: Find solutions to problems quickly
         level: 70%
 
