@@ -8,14 +8,14 @@ sidebar:
     # Profile information
     name: Alexandros Kalathas
     tagline: Undergraduate student
-    avatar: green.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p19kala@ionio.gr
     phone: 1 800 800 69
     citizenship: Greek
-    website: online-cv #do not add http://
-    github: Alexandros Kalathas
+    website: p19kala/online-cv #do not add http://
+    github: p19kala
     telegram: # add your nickname without '@' sign
     #twitter: '@webjeda'
     stack-overflow: 18323557/alexandros-kalathas # Number/Username, e.g. 123456/alandoe
